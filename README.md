@@ -1,5 +1,5 @@
 # Master-Thesis
-This repository contains my [Master Thesis](https://github.com/joaocosteira/Master-Thesis/blob/main/thesis.pdf) and the respective [presentation slides](https://github.com/joaocosteira/Master-Thesis/blob/main/presentation.pdf).  
+This repository contains my [Master Thesis](https://github.com/joaocosteira/Master-Thesis/blob/main/thesis.pdf) and respective [slides](https://github.com/joaocosteira/Master-Thesis/blob/main/presentation.pdf).  
 Currently, the source code nor the language models developed **are not publicly available**, but I'm always open to talk about this project, simply [get in touch](https://joaocosteira.com/).
 ## Official Link / Citations
 - [Uminho Repositorium](https://repositorium.sdum.uminho.pt/handle/1822/83235)
